@@ -20,5 +20,5 @@ Aqui vão algumas informações sobre mim:
 - 🔭 Atualmente estou cursando ADS na FATEC.
 - 🌱 Atualmente estou estudando JavaScript e React Native.
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGerhardt7&count_private=true&theme=dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats-ruby-ten-32.vercel.app/api/?username=LucasGerhardt7&count_private=true&theme=transparent&hide_rank=false&rank_icon=default&show_icons=true&locale=pt-br)](https://github-readme-stats-ruby-ten-32.vercel.app/api/)
 
