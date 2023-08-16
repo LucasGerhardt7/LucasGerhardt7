@@ -1,4 +1,5 @@
-### Hi there 👋
+## Olá, bem vindo(a) ao meu perfil 👋     
+
 
 <!--
 **LucasGerhardt7/LucasGerhardt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Aqui vão algumas informações sobre mim:
+
+- 🔭 Atualmente estou cursando ADS na FATEC.
+- 🌱 Atualmente estou estudando JavaScript e React Native.
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGerhardt7&count_private=true&theme=dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
