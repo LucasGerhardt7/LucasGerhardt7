@@ -40,4 +40,4 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasGerhardt7&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&custom_title=Liguagens+mais+utilizadas)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LucasGerhardt7&theme=youtube-dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=LucasGerhardt7&theme=youtube-dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) -->
